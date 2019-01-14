@@ -1,6 +1,6 @@
 # Clicky-Game
 
-Deployed Link:  
+Deployed Link:  https://abraham0201gh.github.io/Clicky-Game/
 
 ## Overview
 

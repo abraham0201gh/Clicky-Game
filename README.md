@@ -1,10 +1,10 @@
 # Clicky-Game
 
-Deployed Link:  https://abraham0201gh.github.io/Clicky-Game/
+Deployed Link:   https://abraham0201gh.github.io/Clicky-Game/
 
 ## Overview
 
-This App is a memory game with React. The work involved includes breaking up the application's UI into components, managing component state, and responding to user events.
+This App is a memory game utilizing React. The work involved includes breaking up the application's UI into components, managing component state, and responding to user events.
 
 ### Instructions
 

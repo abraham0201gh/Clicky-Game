@@ -45,15 +45,16 @@ a {
   text-decoration: none;
   background-color: transparent;
   font-weight: 700;
-  text-align: left;
+  text-align: none;
 }
 
 a:hover {
   color: none;
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 980px) {
-  navbar, ul, a, li {
+  .navbar, ul, a, li {
     display: block;
     word-wrap: break-word;
     font-size: auto;
@@ -61,7 +62,7 @@ a:hover {
 }
 
 @media only screen and (max-width: 768px) {
-  navbar, ul, a, li {
+  .navbar, ul, a, li {
     display: block;
     word-wrap: break-word;
     font-size: 16px;
@@ -69,7 +70,7 @@ a:hover {
 } 
 
 @media screen and (max-width: 600px) {
-  navbar, ul, a, li {
+  .navbar, ul, a, li {
     display: block;
     word-wrap: break-word;
     font-size: 8px;

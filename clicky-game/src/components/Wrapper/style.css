@@ -1,6 +1,6 @@
 .wrapper {
   padding-top: 50px;
-  background: #ECEFF1;
+  background: none;   /* #ECEFF1 */
   height: 100%;
   display: flex;
   flex-flow: row wrap;
@@ -9,4 +9,4 @@
   align-content: flex-start;
   overflow: none; 
   /* overflow-x: hidden; */
-}
+} 

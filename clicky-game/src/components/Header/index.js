@@ -5,7 +5,7 @@ function Header() {
   return (
     <header className="headerMain">
       <h1>Clicky Game!</h1>
-      <h2>Click on any image to earn points.  If you click the same image more than once, you lose all points and the game starts over.</h2>
+      <h2>Click on any image to earn points.  &nbsp;If you click the same image more than once, you lose all points and the game starts over.</h2>
     </header>
   );
 }

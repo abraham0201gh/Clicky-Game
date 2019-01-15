@@ -73,7 +73,7 @@ class App extends Component {
   }
 
 
-  //Mouse hovering over a card image (represented by x) causes the card to increase in size
+  //Mouse hover over a card image (represented by x) causes the card to increase in size
   bigImage = (x) => {
     x.style.height = "64px";
     x.style.width = "64px";

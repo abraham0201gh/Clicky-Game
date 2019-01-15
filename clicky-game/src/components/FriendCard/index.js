@@ -9,7 +9,7 @@ function FriendCard(props) {
         <img alt={props.name} src={props.image} onClick={() => props.clickCard(props.id)} className="clickCards" />
       </div>
     </div>
-  </main>  
+  </main>
   );
 }
 

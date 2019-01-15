@@ -1,0 +1,27 @@
+.footer {
+  background: #4e4864;
+  height: 65px;
+  position: relative;
+  color: #fff;
+  overflow: auto;
+  display: block;
+  width: 100%;
+  position: relative;
+  text-align: center;
+  margin-top: 30px;
+}
+
+footer {
+  display: block;
+}
+
+.footer>.bottom {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #5133a4;
+  padding: 8px;
+  font-weight: 600;
+  margin-bottom: 0px;
+}
